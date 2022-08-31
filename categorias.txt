@@ -1,0 +1,5 @@
+1,Equipo de Computo,Equipo de Computos,Activo,
+2,Comunicacciones,Telefonia movil,Acivo,
+3,Oficinas,Equipo de oficina como silla,escritorio,
+4,Bebidas,Bebidas azucardas,Activo,
+5,Vehiculos,Camioneta Dimax,Activo,

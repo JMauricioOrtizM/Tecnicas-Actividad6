@@ -1,0 +1,3 @@
+1,Equipo de Computo,1234567,Impresora,2000.0,1,Ningna,Impresora,Activo
+2,>Comunicaciones,321333,Iphone,10.0,2,Iphone 13,Impresora,Activo
+3,Equipo de Computo,1234,HP,3000.0,20,Computadora,Impresora,activo
