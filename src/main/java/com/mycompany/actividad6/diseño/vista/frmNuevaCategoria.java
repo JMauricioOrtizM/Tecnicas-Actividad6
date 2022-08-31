@@ -12,6 +12,7 @@ public class frmNuevaCategoria extends javax.swing.JInternalFrame {
     ArrayCategoria categoria= new ArrayCategoria();
     
     public frmNuevaCategoria() {
+        
         initComponents();
         ListarCategoria();
         jtpListadoCategoria.setEnabledAt(1, false);
